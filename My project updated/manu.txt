@@ -1,0 +1,8 @@
+1. Buy
+2. Return
+3. Service
+4. Cart
+5. Advance order
+6. Add product
+7. Remove product
+0. Quit
